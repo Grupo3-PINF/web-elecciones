@@ -13,10 +13,11 @@ Necesitas tener git instalado para poder contribuir. Además, *inserte requisito
 ### Instalación
 
 Para copiar el repositorio en tu equipo personal:
-	-Copia el enlace al repositorio pinchando el en boton verde que pone clonar/descargar.
-	-Abre una terminal en el directorio donde quieras guardar la copia local.
-	-Escribe el comando `git clone "link del proyecto"`. 
-	-Git se encargará de descargar el reposotorio y hacer una copia exacta en tu equipo.
+
+- Copia el enlace al repositorio pinchando el en boton verde que pone clonar/descargar.
+- Abre una terminal en el directorio donde quieras guardar la copia local.
+- Escribe el comando `git clone "link del proyecto"`. 
+- Git se encargará de descargar el reposotorio y hacer una copia exacta en tu equipo.
 
 
 ## Realización de pruebas
