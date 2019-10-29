@@ -42,11 +42,14 @@ Y para finalizar:
 
 -git push origin nombrerama (En la que estás situado)
 
-Adrián
 
 **Escribe tu nombre en una linea:**
 
 Fran 🥐 
+
+Adrián
+
+Santi
 
  
 
