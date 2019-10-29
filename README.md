@@ -42,3 +42,4 @@ Ver lista de [contributors](https://github.com/your/project/contributors) para m
 
 Aún por decidir.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f2def6074b8c4aa4b93ce87d2876f6a1)](https://www.codacy.com/manual/GRsni/web-elecciones?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Grupo3-PINF/web-elecciones&amp;utm_campaign=Badge_Grade)
