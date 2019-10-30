@@ -42,7 +42,7 @@ Y para finalizar:
 
 -git push origin nombrerama (En la que estás situado)
 
-##Escribe tu nombre en una linea:
+## Escribe tu nombre en una linea:
 
 Fran 🥐 
 
