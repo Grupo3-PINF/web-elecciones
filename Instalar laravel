@@ -13,3 +13,9 @@ Una vez instalado todo, buscais la ruta de xampp y de la carpeta htdocs.
 3. Abrís la terminal y usais el comando cd para moveros a htdocs (En mi caso C:\xampp\htdocs)
 
 4. Ejecutais el comando composer create-project laravel/laravel UCA
+
+Cuando haya terminado de instalar, ya podéis probar que todo funciona correctamente. Para ello abrís el xampp-control y le dais a start a Apache y MySQL.
+
+5. Abrís un navegador cualquiera y escribís localhost en la barra de direcciones. Os debería salir un dashboard con la versión de PHP
+
+6. Para acceder a la BD del proyecto, sólo tenéis que cambiar la url a localhost/phpmyadmin
