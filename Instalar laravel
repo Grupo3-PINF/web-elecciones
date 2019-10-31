@@ -1,0 +1,15 @@
+Hay muchos tutoriales de cómo instalar laravel, pero os voy a hacer un macro resumen para instalarlo en windows:
+
+1. Os descargais e instalais xampp desde esta página:
+https://www.apachefriends.org/es/download.html
+
+2. Os descargais composer y lo instalais:
+https://getcomposer.org/download/
+
+Yo he usado el instalador, no los comandos.
+
+Una vez instalado todo, buscais la ruta de xampp y de la carpeta htdocs.
+
+3. Abrís la terminal y usais el comando cd para moveros a htdocs (En mi caso C:\xampp\htdocs)
+
+4. Ejecutais el comando composer create-project laravel/laravel UCA
